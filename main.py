@@ -12,9 +12,8 @@ import sys
 ENTRY_TEXT = (
     "Every night the lighthouse keeper lights a lamp for a ship that sank "
     "a hundred years ago. He trims the wick, polishes the glass, watches "
-    "the empty water. Somewhere below, the crew still rows toward a light "
-    "they will never reach. He knows. He lights it anyway. "
-    "What does he see?"
+    "the empty water. And every night, from somewhere far below, a light "
+    "answers. He has never told anyone. He lights it anyway."
 )
 
 
